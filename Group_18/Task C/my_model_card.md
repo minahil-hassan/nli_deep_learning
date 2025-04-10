@@ -8,7 +8,7 @@ tags:
 - natural-language-inference
 - transformers
 - bilstm
-repo: https://github.com/username/project_name
+repo: https://github.com/minahil-hassan/nli_deep_learning
 
 ---
 
@@ -25,7 +25,7 @@ This model performs Natural Language Inference (NLI), determining whether a give
 
 <!-- Provide a longer summary of what this model is. -->
 
-This model combines a pretrained DeBERTa-v3-base transformer with a bidirectional LSTM classifier. It was trained to determine the logical relationship between a premise and a hypothesis (binary classification: entailment or not). The model leverages contextual token embeddings from DeBERTa and sequential reasoning capabilities of an LSTM to capture nuanced linguistic dependencies.
+This model combines a pretrained DeBERTa-v3-base transformer with a bidirectional LSTM classifier. It was trained to determine the logical relationship between a premise and a hypothesis (binary classification: entailment or not). The model leverages contextual token embeddings from DeBERTa and sequential reasoning capabilities of an LSTM to capture nuanced linguistic dependencies with a custom head using drop out and fully connected classifier layer.
 
 - **Developed by:** Minahil Tariq and Qian Ning Phang
 - **Language(s):** English
@@ -39,7 +39,7 @@ This model combines a pretrained DeBERTa-v3-base transformer with a bidirectiona
 
 - **Repository:** https://huggingface.co/microsoft/deberta-v3-base
 - **Paper or documentation:** https://arxiv.org/abs/2111.09543
-- **Our Trained model:** [Pretrained Model on Google Drive](https://drive.google.com/uc?id=1RuBncwHrCyTw1ct686zWZWc3e7w6NYX7)
+- **Our Trained model:** [trained and fine tuned Model on Google Drive](https://drive.google.com/uc?id=10BkUfTR1drMR7fZ1bOmyTEEBUuLxIMqY)
 
 
 ## Training Details

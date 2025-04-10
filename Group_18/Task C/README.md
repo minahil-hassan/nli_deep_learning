@@ -17,7 +17,7 @@ The project is organized into three main Jupyter notebooks:
 | `3 demo_and_evaluation.ipynb`  | Loads the trained model for inference on the test set and outputs predictions and evaluation metrics. |
 
 > **Note:** You must run notebook `2 model_training.ipynb` before running `3_demo_and_evaluation.ipynb` to generate the required model file. Otherwise, download model from: 
-[Pretrained Model on Google Drive](https://drive.google.com/uc?id=1RuBncwHrCyTw1ct686zWZWc3e7w6NYX7)
+[Pretrained Model on Google Drive](https://drive.google.com/uc?id=10BkUfTR1drMR7fZ1bOmyTEEBUuLxIMqY)
 
 
 ---
